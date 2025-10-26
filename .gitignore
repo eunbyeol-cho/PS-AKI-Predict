@@ -1,0 +1,18 @@
+*/__pycache__
+__pycache__/
+# checkpoints
+wandb/
+.ipynb_checkpoints
+figure/
+baseline/
+# *.ipynb
+logs.log
+
+# test_clsf
+logs/
+logs/train/*
+logs/eval/*
+
+*.csv
+*.pickle
+extract_result/
