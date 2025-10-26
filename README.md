@@ -74,3 +74,7 @@ These configs are generated automatically when you run preprocessing.
 - `task_test_both2table` - Test with text + tabular
 
 All configs accept a `study` parameter to specify the hospital (e.g., `study=SNUH`, `study=SNUBH`).
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
