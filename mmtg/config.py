@@ -85,7 +85,7 @@ def config():
     #Training settings
     n_epochs = 500
     patience = 30
-    dropout = 0
+    dropout = 0.1
 
     #Below params varies with the environment
     modality = ['table']
